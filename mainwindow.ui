@@ -40,19 +40,6 @@
      <string>Сравнение</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>280</y>
-      <width>231</width>
-      <height>111</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Построить дерево</string>
-    </property>
-   </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
@@ -514,29 +501,6 @@ A -&gt; cAbb | @</string>
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_4">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>250</y>
-      <width>231</width>
-      <height>20</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_15">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>230</y>
-      <width>191</width>
-      <height>16</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Впишите цепочку для построения</string>
-    </property>
-   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -544,7 +508,7 @@ A -&gt; cAbb | @</string>
      <x>0</x>
      <y>0</y>
      <width>1246</width>
-     <height>21</height>
+     <height>23</height>
     </rect>
    </property>
    <widget class="QMenu" name="menu">

@@ -1,0 +1,17 @@
+.idea/
+.idea*
+
+lib/
+lib/*
+
+*.json
+
+bin/
+bin/*
+
+venv/
+venv/*
+
+*.txt
+
+__pycache__/
